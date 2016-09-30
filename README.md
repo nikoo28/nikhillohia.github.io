@@ -1,1 +1,2 @@
-Source code for my personal site nikhillohia.me
+# personal-website
+Source code for my personal website - http://nikhillohia.me
